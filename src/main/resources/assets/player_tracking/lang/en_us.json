@@ -1,0 +1,16 @@
+{
+  "tracking.command.able": "Player has been tracked!",
+  "tracking.command.unable": "Player has no long been tracked!",
+  "tracker.name.attack": "Attack",
+  "tracker.event.attack": "Target: %d, Damage: %d, World: %d, TargetPos: %d",
+  "tracker.name.hurt": "Hurt",
+  "tracker.event.hurt": "Source: %d, Damage: %d, World: %d, PlayerPos: %d",
+  "tracker.name.place": "Place",
+  "tracker.event.place": "Block: %d, World: %d, BlockPos: %d, PlayerPos: %d",
+  "tracker.name.pick": "Pick",
+  "tracker.event.pick": "ItemStack: %d, World: %d, PlayerPos: %d",
+  "tracker.name.toss": "Toss",
+  "tracker.event.toss": "ItemStack: %d, World: %d, PlayerPos: %d",
+  "tracker.name.click_block": "Right Click",
+  "tracker.event.click_block": "Block: %d, World: %d, BlockPos: %d"
+}

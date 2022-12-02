@@ -1,0 +1,16 @@
+{
+  "tracking.command.able": "开始追踪玩家！",
+  "tracking.command.unable": "不再追踪玩家！",
+  "tracker.name.attack": "攻击",
+  "tracker.event.attack": "目标： %d, 伤害： %d, 维度： %d, 实体坐标： %d",
+  "tracker.name.hurt": "受伤",
+  "tracker.event.hurt": "伤害源： %d, 伤害： %d, 维度： %d, 玩家坐标： %d",
+  "tracker.name.place": "放置",
+  "tracker.event.place": "方块： %d, 维度： %d, 方块坐标： %d, 玩家坐标： %d",
+  "tracker.name.pick": "捡起",
+  "tracker.event.pick": "物品栈： %d, 维度： %d, 玩家坐标： %d",
+  "tracker.name.toss": "丢弃",
+  "tracker.event.toss": "物品栈： %d, 维度： %d, 玩家坐标： %d",
+  "tracker.name.click_block": "右击",
+  "tracker.event.click_block": "方块： %d, 维度： %d, 方块坐标： %d"
+}
